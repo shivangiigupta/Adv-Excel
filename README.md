@@ -10,3 +10,4 @@ Data- Employee Sample Data
 <p>#Applied conditional formatting on BONUS attribute CNTRL+Q ( mark the bonus which is above 20%) *Insert a column on the left side of BONUS as a PROMOTION attribute to know who got promoted. CNTRL+SHIFT+PLUS sign key<p/> 
 <p>#Used Logical function in Promotion attribute. =if(Bonus>20%,"Promoted",if(and(bonus>=20%, bonus<20%),"Promoted", "Not Promoted")<p/>
 <p>#Changed the Date Format CNTRL+SHIFT+#<p/>
+https://github.com/shivangiigupta/Adv-Excel/blob/main/BASIC.png
